@@ -15,10 +15,10 @@ class script(object):
 ➩ <a href=https://t.me/N_A_V_I_P_A_V_I>MR PROFESSOR</a>
 ➩ <a href=https://t.me/shamilhabeeb>𝕊𝕞𝕃</a>
 ➩ <a  href=https://github.com/M-fazin>M-fazin</a>
+"""
     MUSIC = """Help: <b>🎧MUSIC🎧</b>
 
-➩ /music <songname artist(optional)>: uploads the song in it's best quality available
-"""
+➩ /music <songname artist(optional)>: uploads the song in it's best quality available"""
    VSONG = """Help: <b>📀VSONG📀</b>
 
 ➩ /vsong <songname artist(optional)>: uploads the video song in it's best quality available"""

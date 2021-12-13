@@ -17,7 +17,7 @@ Ek = Client(
 
 
 @Ek.on_message(filters.private & filters.command(["start"]))
-   async def start(client, message):
+   async def start(Ek, message):
        buttons = [[                                    
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
